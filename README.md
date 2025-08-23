@@ -17,7 +17,7 @@ A lightweight Android library that monitors network connectivity and exposes the
 
 ```kotlin
 dependencies {
-    implementation("io.github.sami00777:connectivity-monitor:1.0.0")
+    implementation("io.github.sami00777:connectivity-monitor:1.0.1")
 }
 ```
 
