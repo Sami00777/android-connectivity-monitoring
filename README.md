@@ -11,13 +11,17 @@ A lightweight Android library that monitors network connectivity and exposes the
 - 🧪 Well-tested and reliable
 - 📦 Lightweight with minimal dependencies
 
+# Connectivity Monitoring Library
+
+[![Maven Central]([https://img.shields.io/maven-central/v/io.github.sami00777/connectivity-monitoring)](https://central.sonatype.com/artifact/io.github.sami00777/connectivity-monitoring](https://central.sonatype.com/artifact/io.github.sami00777/connectivity-monitoring/overview))
+
 ## Installation
 
 ### Add to your module's `build.gradle.kts`:
 
 ```kotlin
 dependencies {
-    implementation("io.github.sami00777:connectivity-monitor:1.0.1")
+    implementation("io.github.sami00777:connectivity-monitoring:1.0.2")
 }
 ```
 
